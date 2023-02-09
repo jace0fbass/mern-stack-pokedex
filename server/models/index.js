@@ -1,4 +1,4 @@
-const Pokemon = require("./pokemon");
-const Trainer = require("./trainer");
+const Pokemon = require('./pokemon')
+const Trainer = require('./trainer')
 
-module.exports = { Pokemon, Trainer };
+module.exports = { Pokemon, Trainer }
